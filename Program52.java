@@ -7,11 +7,11 @@
 //          1 8 27 64 125 216
 //          1 8 27 64 125 216
 //
-// Date    : 01/09/2026
+// Date    : 02/09/2026
 //
 // Author  : Aditya Govind Valekar
 ////////////////////////////////////////////////////////////////////////////////////
-public class Program51 {
+public class Program52 {
 
     public static void main(String Args[])
     {
@@ -21,11 +21,10 @@ public class Program51 {
         {
             for(icol = 1; icol<=6; icol++)
             {
-                int cube = (int)Math.pow(icol,3);
+                int cube = (int)Math.pow(icol,4);
                 System.out.print(cube+" ");
             }
             System.out.println();
-
         }
     }
     
