@@ -25,6 +25,8 @@ public class Program51 {
                 System.out.print(cube+" ");
             }
             System.out.println();
+            System.out.println();
+
         }
     }
     
